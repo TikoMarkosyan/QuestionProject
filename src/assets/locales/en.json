@@ -1,0 +1,51 @@
+{
+  "signin": {
+    "signup_button": "SignUp",
+    "Signin_button": "SignIn",
+    "frogotpassword_button": "Frogot Password",
+    "email_textinput": "email",
+    "password_textinput": "password",
+    "error_email_password_isEmpty": "password and email cannot to be empty",
+    "erro_check_your_email": "check your login and password"
+  },
+  "signup": {
+    "email_textinput": "email",
+    "password_textinput": "password",
+    "repeatPassword_textinput": "repeat password",
+    "error_email_valid": "email is not valid",
+    "error_password_not_same": "password is not the same",
+    "error_password_short": "password is short",
+    "error_fill_all_fileds": "please fill all fileds",
+    "reg_button": "Reg"
+  },
+  "frgotpassword": {
+    "error_email_valid": "email is not valid",
+    "email_textinput": "email",
+    "Frgotpassword_button": "FrogotPassword"
+  },
+  "home": {
+    "hall": "Hall",
+    "serachtable_button": "serach table",
+    "this_table": "this table",
+    "logout": "logout"
+  },
+  "menu": {
+    "add_button": "add",
+    "remove_button": "remove",
+    "save_button": "save"
+  },
+  "table": {
+    "add_button": "add",
+    "order_button": "order"
+  },
+  "error": {
+    "error_document": "No such document!",
+    "error_cancled": "cancled",
+    "error_serices_available_outdated": "play services not available or outdated",
+    "error_somthing_wrong": "something is wrong please try again",
+    "error_email_valid": "email is not valid"
+  },
+  "notifications": {
+    "change_password": "Your password reset mail has been sent"
+  }
+}

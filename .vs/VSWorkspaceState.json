@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android\\app",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\android\\app\\src\\main\\java",
+    "\\android\\app\\src\\main\\java\\com",
+    "\\android\\app\\src\\main\\java\\com\\questionproject",
+    "\\src",
+    "\\src\\api",
+    "\\src\\container",
+    "\\src\\container\\Main",
+    "\\src\\redux",
+    "\\src\\redux\\Reducers"
+  ],
+  "SelectedNode": "\\src\\api\\User.js",
+  "PreviewInSolutionExplorer": false
+}
